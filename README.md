@@ -25,7 +25,17 @@ Replace the following files in the environment with the versions in `files_to_re
 - `Lib\site-packages\backbones_unet\model\losses.py`
 - `Lib\site-packages\backbones_unet\model\unet.py`
 
-## 3. Run the Script
+## 3. Download Data and Adjust Paths
+
+Download the dataset
+
+https://github.com/simula/kvasir-capsule
+
+and adjust the paths in sample.py
+
+## 4. Run the Script
+
+
 
 Run `sample.py`:
 
